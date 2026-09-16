@@ -106,7 +106,7 @@ npm run dev
 The React application will be available at the local Vite URL shown in the terminal.
 
 ## Project Structure
-'''
+```
 
 AutoBOQ/
 ├── backend/
@@ -128,7 +128,7 @@ AutoBOQ/
 ├── data/
 │   └── sample_structural.dxf
 └── README.md
-'''
+```
 ## Note
 
 The current quantity estimates are based on extracted geometry, drawing scale, and user-provided assumptions. They are intended as a development-stage estimation workflow and should not be treated as final engineering BOQ quantities.
